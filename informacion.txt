@@ -1,0 +1,22 @@
+
+1- se usaran los style components, utilizndo libreria motion
+
+https://www.npmjs.com/package/emotion-styled-utils
+https://emotion.sh/docs/install
+
+cmd: npm install @emotion/styled
+
+// ------------
+Instalar react transicion, group
+cmd: npm i react-transition-group
+
+// ------------
+se uso una solucion a un error del CSSTransition,
+
+Hook: useRef
+https://stackoverflow.com/questions/62187461/using-react-finddomnode-is-deprecated-in-strictmode-is-thrown-as-a-warning-when
+
+ 
+
+
+// ------------
